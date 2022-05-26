@@ -1,0 +1,29 @@
+.post {
+  width: 450px;
+  box-shadow: 4px 4px 34px 0px rgba(34, 60, 80, 0.64);
+  margin-top: 25px;
+  padding: 5px 15px;
+}
+
+.author {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.authorInfo {
+  display: flex;
+}
+
+.authorBtns {
+  display: flex;
+}
+
+img {
+  width: 100%;
+}
+
+h4 {
+  padding: 0 5px;
+  border-right: 1px solid #000;
+}
